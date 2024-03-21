@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center">Things I code with</h4>
+<h3 align="center">Things I code with</h3>
 
 ###
 
@@ -46,13 +46,14 @@
 
 ###
 
-<h4 align="center">Where to find me</h4>
+<h3 align="center">Where to find me</h3>
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
 </div>
 
 ###
